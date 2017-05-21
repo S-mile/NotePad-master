@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item_new.xml",
+        "source": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\src\\main\\res\\layout\\noteslist_item_new.xml"
+    },
+    {
+        "merged": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\src\\main\\res\\layout\\note_editor.xml"
+    },
+    {
+        "merged": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_backgroundcolor.xml",
+        "source": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\src\\main\\res\\layout\\change_backgroundcolor.xml"
+    },
+    {
+        "merged": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notepad_main.xml",
+        "source": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\src\\main\\res\\layout\\notepad_main.xml"
+    },
+    {
+        "merged": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "D:\\Genymobile\\AndroidStudioProjects\\MyApplication\\NotePad-master2\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_editor.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\title_editor.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\noteslist_item.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\noteslist_item.xml"
+    },
+    {
+        "merged": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\layout\\note_editor.xml",
+        "source": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\layout\\note_editor.xml"
+    }
+]
